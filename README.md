@@ -26,3 +26,9 @@ The data for this project come from this source: http://groupware.les.inf.puc-ri
 
 If you use the document you create for this class for any purpose please cite them as 
 they have been very generous in allowing their data to be used for this kind of assignment.
+
+### Result
+
+[Check HTML version](https://htmlpreview.github.io?https://github.com/DimitrYo/Pracrical-Machine-Learning-Final-Project--Coursera-May-2016-/blob/master/PML FInal Task.html)
+[Check iPython Notebook version](https://github.com/DimitrYo/Pracrical-Machine-Learning-Final-Project--Coursera-May-2016-/blob/master/PML%20FInal%20Task.ipynb)
+
