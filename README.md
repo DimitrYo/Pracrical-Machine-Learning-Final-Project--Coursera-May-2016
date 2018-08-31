@@ -29,7 +29,7 @@ they have been very generous in allowing their data to be used for this kind of 
 
 ### Result
 
-[Check HTML version](https://htmlpreview.github.io?https://github.com/DimitrYo/Pracrical-Machine-Learning-Final-Project--Coursera-May-2016-/blob/master/PML FInal Task.html)
+[Check HTML version](https%3A%2F%2Fhtmlpreview.github.io%3Fhttps%3A%2F%2Fgithub.com%2FDimitrYo%2FPracrical-Machine-Learning-Final-Project--Coursera-May-2016-%2Fblob%2Fmaster%2FPML%20FInal%20Task.html)
 
 [Check iPython Notebook version](https://github.com/DimitrYo/Pracrical-Machine-Learning-Final-Project--Coursera-May-2016-/blob/master/PML%20FInal%20Task.ipynb)
 
