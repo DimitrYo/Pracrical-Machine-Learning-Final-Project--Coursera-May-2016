@@ -1,7 +1,7 @@
-#Practical Machine Learning Project 
-##by Dymytr Yovchev
+# ractical Machine Learning Project 
+## by Dymytr Yovchev
 
-###Task
+### Task
 
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect 
 a large amount of data about personal activity relatively inexpensively. These type of devices
@@ -16,7 +16,7 @@ More information is available from the website here:
 http://groupware.les.inf.puc-rio.br/har
 (see the section on the Weight Lifting Exercise Dataset).
 
-###Data
+### Data
 
 The training data for this project are available here:
 https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv
