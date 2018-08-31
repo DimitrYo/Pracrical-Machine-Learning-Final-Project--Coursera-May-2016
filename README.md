@@ -1,4 +1,4 @@
-# ractical Machine Learning Project 
+# Practical Machine Learning Project 
 ## by Dymytr Yovchev
 
 ### Task
